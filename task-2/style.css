@@ -1,0 +1,27 @@
+h1{
+    color:darkmagenta ;
+    font-size: 2.5em;
+    text-align: center;
+    text-decoration: darkmagenta wavy underline;
+}
+body{
+    background-color:aquamarine;
+    display: flex;
+}
+.contact-details{
+   width: 50%;
+    background-color:white;
+    color: darkgreen;
+    border-width: 13px;
+    border-style: ridge; 
+    border-color: #CC63FF
+    
+}
+h2{
+    color:darkmagenta ;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.content{
+    font-weight: bold;
+}
