@@ -1,0 +1,41 @@
+.card{
+    background-color: darkgrey;
+    width: 27em;
+    height: 17em;
+    margin: 5em auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1em;
+}
+.cardin{
+    width: 25em;
+    height: 15em;
+    background-color: red;  
+    border: 0.em solid black;
+    border-radius: 1.5em;
+    
+}
+.cardin header,.cardin footer{
+    height: 2em;
+    padding-left: 1em;
+}
+.cardin article{
+    height: 9em;
+    background-color: rgba(0,0,0,0.5);
+    padding: 1em;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+.cardin article img{
+    max-width: 100%;
+}
+.cardin article p{
+    margin: 0;
+    color: aliceblue;
+    
+}
+h2,p{
+    margin: 0;
+}
