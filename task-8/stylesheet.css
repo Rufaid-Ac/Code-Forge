@@ -1,0 +1,29 @@
+body {
+    overflow: hidden;
+    height: inherit;
+}
+  
+h1 {
+    font-size:;
+    letter-spacing: -1px;
+    position: absolute;
+    margin: 0;
+    top: 10px;
+    right: 10px;
+  
+    color: white;
+    text-shadow: 0 0 4px white;
+}
+p {
+    position: absolute;
+    margin: 0;
+    top: 50px;
+    right: 10px;
+    color: #aaa;
+}
+body {
+    margin: 0;
+}
+html{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
